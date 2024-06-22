@@ -6,10 +6,8 @@ pose challenges for terrestrial backhaul hubs. This article proposes leveraging
 an aerial network of unmanned aerial vehicles (UAVs) to replace terrestrial
 backhaul networks, ensuring effective fronthaul connectivity between CBSs
 and the ground core network (GCN). To optimize the system’s sum rate, the
-
 research focuses on UAV positioning and CBS association. Considering com-
 munication constraints like backhaul data rates, power limits, bandwidth,
-
 connections to UAVs, interference thresholds, and UAV altitudes is crucial
 in formulating the CBS association problem with UAVs. Various techniques
 such as k-means, k-medoids, and genetic algorithms (GA) are employed to
